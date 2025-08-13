@@ -1,0 +1,6 @@
+.env
+deals_cache.json
+.env.development
+.env.production
+service-account-key.json
+node_modules/
